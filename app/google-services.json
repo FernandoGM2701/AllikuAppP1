@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188377110549",
+    "firebase_url": "https://p1-alliku.firebaseio.com",
+    "project_id": "p1-alliku",
+    "storage_bucket": "p1-alliku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188377110549:android:5e2fdd30fc218fc577161c",
+        "android_client_info": {
+          "package_name": "com.example.allikuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188377110549-j3ib4r8v3li9fldn0mau0gr3hph9kcsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allikuapp",
+            "certificate_hash": "4b618794c301356e88738c6a89f8f8e6d09d4051"
+          }
+        },
+        {
+          "client_id": "188377110549-f73kjkdbvcge5r9am5q0vddgjj21fdtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCznINAfpm2Dq4tIb8AHoCvZ3-S5oEJv_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188377110549-f73kjkdbvcge5r9am5q0vddgjj21fdtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
